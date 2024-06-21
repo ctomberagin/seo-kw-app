@@ -1,0 +1,27 @@
+{
+  "name": "seo-kw-app",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctomberagin/seo-kw-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctomberagin/seo-kw-app/issues"
+  },
+  "homepage": "https://github.com/ctomberagin/seo-kw-app#readme",
+  "dependencies": {
+    "@google-cloud/translate": "^8.3.0",
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
